@@ -1,0 +1,11 @@
+C:\Users\EU399ET\Downloads\LINQExamples150917_2\LINQExamples150917\LINQExamples\bin\Debug\LINQExamples.exe.config
+C:\Users\EU399ET\Downloads\LINQExamples150917_2\LINQExamples150917\LINQExamples\bin\Debug\LINQExamples.exe
+C:\Users\EU399ET\Downloads\LINQExamples150917_2\LINQExamples150917\LINQExamples\bin\Debug\LINQExamples.pdb
+C:\Users\EU399ET\Downloads\LINQExamples150917_2\LINQExamples150917\LINQExamples\obj\Debug\LINQExamples150917.csprojAssemblyReference.cache
+C:\Users\EU399ET\Downloads\LINQExamples150917_2\LINQExamples150917\LINQExamples\obj\Debug\LINQExamples.AdvancedExamplesFrm.resources
+C:\Users\EU399ET\Downloads\LINQExamples150917_2\LINQExamples150917\LINQExamples\obj\Debug\LINQExamples.Form1.resources
+C:\Users\EU399ET\Downloads\LINQExamples150917_2\LINQExamples150917\LINQExamples\obj\Debug\LINQExamples.Properties.Resources.resources
+C:\Users\EU399ET\Downloads\LINQExamples150917_2\LINQExamples150917\LINQExamples\obj\Debug\LINQExamples150917.csproj.GenerateResource.cache
+C:\Users\EU399ET\Downloads\LINQExamples150917_2\LINQExamples150917\LINQExamples\obj\Debug\LINQExamples150917.csproj.CoreCompileInputs.cache
+C:\Users\EU399ET\Downloads\LINQExamples150917_2\LINQExamples150917\LINQExamples\obj\Debug\LINQExamples.exe
+C:\Users\EU399ET\Downloads\LINQExamples150917_2\LINQExamples150917\LINQExamples\obj\Debug\LINQExamples.pdb
